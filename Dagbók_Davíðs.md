@@ -2,4 +2,5 @@
 ## Í dag byrjuðum við á verkefninu. Við settum upp 2 heimanet á packet tracer, með ráterum, símum, tölvum og spjaldtölvum og serveri.
 
 # 23.11.2017
-## placeholder
+## Núna settum við upp ISP's og tengdum DNS server til að heimanetin gætu tengt við internetið.
+## 
