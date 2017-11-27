@@ -1,4 +1,4 @@
-#IP TÖLUR
+# IP TÖLUR
 
 ## Wireless Router 1:
 ### 192.168.1.1
