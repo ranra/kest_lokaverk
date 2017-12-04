@@ -9,3 +9,6 @@
 
 ## router 2 password:
 ### 12345678
+
+## Öll Router og switch password:
+### pass
