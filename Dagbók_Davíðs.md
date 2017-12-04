@@ -6,4 +6,10 @@
 ## Við kláruðum næstum því einfaldasta setupið en lentum í tæknivandamálum sem ekki einusinni geir skildi
 
 # 27.11.2017
-## við kláruðum einfaldasta isp setupið
+## við kláruðum einfaldasta isp setupið og byrjuðum á næsta erfiðleikastigi
+
+# 30.11.2017
+## Kláruðum mið-isp kerfið
+
+# 4.12.2017
+## fínpússun á verkefni og skil
